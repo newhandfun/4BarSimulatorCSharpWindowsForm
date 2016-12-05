@@ -1,0 +1,11 @@
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\bin\Debug\4BarSimulator_WinForm.exe.config
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\bin\Debug\4BarSimulator_WinForm.exe
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\bin\Debug\4BarSimulator_WinForm.pdb
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\4BarSimulator_WinForm.csprojResolveAssemblyReference.cache
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\_4BarSimulator_WinForm.Form1.resources
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\_4BarSimulator_WinForm.Properties.Resources.resources
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\4BarSimulator_WinForm.csproj.GenerateResource.Cache
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\4BarSimulator_WinForm.exe
+c:\users\newhandfun\documents\visual studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\obj\Debug\4BarSimulator_WinForm.pdb
+C:\Users\newhandfun\Documents\Visual Studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\bin\Debug\MathNet.Numerics.dll
+C:\Users\newhandfun\Documents\Visual Studio 2015\Projects\4BarSimulator_WinForm\4BarSimulator_WinForm\bin\Debug\MathNet.Numerics.xml
